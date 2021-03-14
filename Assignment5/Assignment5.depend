@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1569845227 source:c:\users\nikola\desktop\ipc031_2019_assignment_5_files\main.cpp
+	<iostream>
+	<fstream>
+	<cassert>
+	<stdio.h>
+	<stdlib.h>
+
+1570098580 source:c:\users\nikola\desktop\uni\imperative programming\assignment5\main.cpp
+	<iostream>
+	<fstream>
+	<cassert>
+	<stdlib.h>
+
